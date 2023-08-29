@@ -1,0 +1,15 @@
+	Buna ziua, am efectuat practica la compania IBM pe timp de vara. Totul a avut loc remote (de acasa), unde un trainer al companiei ne-a prezentat 8 cursuri legate de
+domeniul de activitate ales, adica .Net/Angular/Cloud.
+	Toti cei care am fost inscrisi aici am fost organizati pe 3 echipe a cate 4-5 studenti, si ca limbaj de programare am folosit C#, unde ne-am folosit de visual studio
+2022 si visual studio code. Trainerul desemna un membru din fiecare echipa care sa isi reprezinte echia, si acela trebuia sa indeplineasca sarcinile pe care ni le dadea.
+	(Cum ar fi diferite exercitii introductive de c#, programe simplute bazate pe principiile S.O.L.I.D)
+S - Single responsability principle
+O - Open-Close Principle
+L - Liskov substitution principle
+I - Interface segregation principle
+D - Dependency Injection Principle
+	Pe parcurs am primit si teme care constau in vizionarea unor clipuri recomandate de catre trainer si punerea in practica a ce am vizionat.
+	Pentru partea de .net mai ales am folosit platforma Azure Devops unde am incarcat si clonat programele la care am lucrat. Toti aveam acces la un cont comun unde rezolvam 
+sarcinile, si am reusit pe partea de backend sa creem un controller(+ injectarea unui repozitoriu in el), un rest api care facea legatura intre User si o lista de persoane,
+implementarea unei autentificari folosind un token ///Angular 14 si Angular CDK
+	Pe la cursurile finale, desi nu mai ramasese mult timp, ne-am legat si de partea de frontend  unde am realizat un login/sign in pentru aplicatia la care am lucrat.
