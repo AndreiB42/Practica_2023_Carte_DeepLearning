@@ -1,0 +1,4 @@
+tensorflow
+matplotlib
+https://www.kaggle.com/c/dogs-vs-cats/data pentru convnets 2
+scipy
